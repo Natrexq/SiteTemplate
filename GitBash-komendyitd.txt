@@ -1,0 +1,15 @@
+cd "Ścieszka folderu" :przykład cd C:\Files/folder - przeniesie mnie do danego folderu z plikami
+ls - pokaze mi wszystkie pliki we wczesniej okraslonym folderze
+git branch "nazwa brancha"= pare wersji 1 projektu np dev,beta,alpha
+git branch -d "nazwa" - usuwa brancha
+git clone --mirror url.git kopiuje repo
+git clone --bare tworzy puste repo
+
+git commit{
+	git commit -a wysłanie zmian;
+	git commit -m "wiadomośc" -a //to jest all inaczej 
+	git commit -f "plik.typ
+
+}
+git log = logi zmian
+git work

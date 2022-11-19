@@ -1,4 +1,6 @@
-function Main(){
+const main = (function(){
+    
+}())
 
-}
-window.onload(Main());
+
+//! function starts automaticly
